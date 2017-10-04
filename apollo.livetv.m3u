@@ -1,0 +1,773 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10001" tvg-name="10001" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10001.png",ABC
+http://api.apollogroup.tv/play/?vlc=1&channel=10001&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="883" tvg-name="883" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/883.png",ABC
+http://api.apollogroup.tv/play/?vlc=1&channel=883&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10009" tvg-name="10009" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10009.png",AMC
+http://api.apollogroup.tv/play/?vlc=1&channel=10009&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10011" tvg-name="10011" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10011.png",BBC America
+http://api.apollogroup.tv/play/?vlc=1&channel=10011&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10012" tvg-name="10012" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10012.png",Bravo
+http://api.apollogroup.tv/play/?vlc=1&channel=10012&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20062" tvg-name="20062" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20062.png",BTN
+http://api.apollogroup.tv/play/?vlc=1&channel=20062&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10002" tvg-name="10002" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10002.png",CBS
+http://api.apollogroup.tv/play/?vlc=1&channel=10002&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20019" tvg-name="20019" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20019.png",CBS
+http://api.apollogroup.tv/play/?vlc=1&channel=20019&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="882" tvg-name="882" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/882.png",CBS
+http://api.apollogroup.tv/play/?vlc=1&channel=882&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20055" tvg-name="20055" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20055.png",CineMax
+http://api.apollogroup.tv/play/?vlc=1&channel=20055&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+http://api.apollogroup.tv/play/?vlc=1&channel=2703&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10014" tvg-name="10014" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10014.png",Comedy Central
+http://api.apollogroup.tv/play/?vlc=1&channel=10014&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10003" tvg-name="10003" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10003.png",CW
+http://api.apollogroup.tv/play/?vlc=1&channel=10003&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20022" tvg-name="20022" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20022.png",CW NYC
+http://api.apollogroup.tv/play/?vlc=1&channel=20022&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20030" tvg-name="20030" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20030.png",E!
+http://api.apollogroup.tv/play/?vlc=1&channel=20030&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20052" tvg-name="20052" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20052.png",Epix
+http://api.apollogroup.tv/play/?vlc=1&channel=20052&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10004" tvg-name="10004" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10004.png",Fox
+http://api.apollogroup.tv/play/?vlc=1&channel=10004&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="885" tvg-name="885" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/885.png",Fox 5 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=885&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10019" tvg-name="10019" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10019.png",Freeform
+http://api.apollogroup.tv/play/?vlc=1&channel=10019&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10020" tvg-name="10020" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10020.png",FX
+http://api.apollogroup.tv/play/?vlc=1&channel=10020&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20024" tvg-name="20024" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20024.png",FX
+http://api.apollogroup.tv/play/?vlc=1&channel=20024&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20033" tvg-name="20033" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20033.png",HBO
+http://api.apollogroup.tv/play/?vlc=1&channel=20033&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20053" tvg-name="20053" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20053.png",MGM
+http://api.apollogroup.tv/play/?vlc=1&channel=20053&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10023" tvg-name="10023" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10023.png",MSNBC
+http://api.apollogroup.tv/play/?vlc=1&channel=10023&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20021" tvg-name="20021" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20021.png",My13 LA
+http://api.apollogroup.tv/play/?vlc=1&channel=20021&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10007" tvg-name="10007" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10007.png",My9
+http://api.apollogroup.tv/play/?vlc=1&channel=10007&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10005" tvg-name="10005" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10005.png",NBC
+http://api.apollogroup.tv/play/?vlc=1&channel=10005&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="887" tvg-name="887" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/887.png",NBC HD
+http://api.apollogroup.tv/play/?vlc=1&channel=887&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20020" tvg-name="20020" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20020.png",NBC NYC
+http://api.apollogroup.tv/play/?vlc=1&channel=20020&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10025" tvg-name="10025" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10025.png",NBCSN
+http://api.apollogroup.tv/play/?vlc=1&channel=10025&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10006" tvg-name="10006" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10006.png",PBS
+http://api.apollogroup.tv/play/?vlc=1&channel=10006&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20032" tvg-name="20032" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20032.png",Showtime
+http://api.apollogroup.tv/play/?vlc=1&channel=20032&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20054" tvg-name="20054" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20054.png",Sony Movies
+http://api.apollogroup.tv/play/?vlc=1&channel=20054&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10028" tvg-name="10028" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10028.png",SPIKE TV
+http://api.apollogroup.tv/play/?vlc=1&channel=10028&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10027" tvg-name="10027" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10027.png",SundanceTV
+http://api.apollogroup.tv/play/?vlc=1&channel=10027&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10029" tvg-name="10029" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10029.png",Syfy
+http://api.apollogroup.tv/play/?vlc=1&channel=10029&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20031" tvg-name="20031" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20031.png",syfy
+http://api.apollogroup.tv/play/?vlc=1&channel=20031&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20027" tvg-name="20027" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20027.png",TBS
+http://api.apollogroup.tv/play/?vlc=1&channel=20027&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10030" tvg-name="10030" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10030.png",TLC
+http://api.apollogroup.tv/play/?vlc=1&channel=10030&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20025" tvg-name="20025" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20025.png",TNT
+http://api.apollogroup.tv/play/?vlc=1&channel=20025&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10032" tvg-name="10032" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10032.png",USA Network
+http://api.apollogroup.tv/play/?vlc=1&channel=10032&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20026" tvg-name="20026" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20026.png",USA Network
+http://api.apollogroup.tv/play/?vlc=1&channel=20026&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20029" tvg-name="20029" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20029.png",Bravo
+http://api.apollogroup.tv/play/?vlc=1&channel=20029&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="628" tvg-name="628" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/628.png",HBO EU
+http://api.apollogroup.tv/play/?vlc=1&channel=628&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="176" tvg-name="176" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/176.png",MGM HD
+http://api.apollogroup.tv/play/?vlc=1&channel=176&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="102" tvg-name="102" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/102.png",Sony Sci-Fi
+http://api.apollogroup.tv/play/?vlc=1&channel=102&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="235" tvg-name="235" tvg-type="live" group-title="US" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/235.png",Sony Turbo
+http://api.apollogroup.tv/play/?vlc=1&channel=235&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="825" tvg-name="825" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/825.png",ATV
+http://api.apollogroup.tv/play/?vlc=1&channel=825&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="814" tvg-name="814" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/814.png",Das Erste HD
+http://api.apollogroup.tv/play/?vlc=1&channel=814&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="848" tvg-name="848" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/848.png",Disney Cinemagic HD
+http://api.apollogroup.tv/play/?vlc=1&channel=848&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="819" tvg-name="819" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/819.png",Disney HD
+http://api.apollogroup.tv/play/?vlc=1&channel=819&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="920" tvg-name="920" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/920.png",DMAX HD
+http://api.apollogroup.tv/play/?vlc=1&channel=920&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="831" tvg-name="831" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/831.png",Eurosport HD
+http://api.apollogroup.tv/play/?vlc=1&channel=831&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="921" tvg-name="921" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/921.png",FOX HD
+http://api.apollogroup.tv/play/?vlc=1&channel=921&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="808" tvg-name="808" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/808.png",Kabel Eins HD
+http://api.apollogroup.tv/play/?vlc=1&channel=808&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="828" tvg-name="828" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/828.png",Motorvision TV
+http://api.apollogroup.tv/play/?vlc=1&channel=828&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="826" tvg-name="826" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/826.png",ORF 1
+http://api.apollogroup.tv/play/?vlc=1&channel=826&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="827" tvg-name="827" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/827.png",ORF 2
+http://api.apollogroup.tv/play/?vlc=1&channel=827&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="807" tvg-name="807" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/807.png",ProSieben HD
+http://api.apollogroup.tv/play/?vlc=1&channel=807&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="817" tvg-name="817" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/817.png",ProSieben Maxx HD
+http://api.apollogroup.tv/play/?vlc=1&channel=817&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="805" tvg-name="805" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/805.png",RTL 2 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=805&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="801" tvg-name="801" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/801.png",RTL HD
+http://api.apollogroup.tv/play/?vlc=1&channel=801&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="806" tvg-name="806" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/806.png",SAT1 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=806&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="844" tvg-name="844" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/844.png",Sky Action HD
+http://api.apollogroup.tv/play/?vlc=1&channel=844&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="836" tvg-name="836" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/836.png",Sky Bundesliga 1 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=836&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="847" tvg-name="847" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/847.png",Sky Cinema HD
+http://api.apollogroup.tv/play/?vlc=1&channel=847&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="845" tvg-name="845" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/845.png",Sky Comedy
+http://api.apollogroup.tv/play/?vlc=1&channel=845&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="832" tvg-name="832" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/832.png",Sky Sport News
+http://api.apollogroup.tv/play/?vlc=1&channel=832&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="833" tvg-name="833" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/833.png",Sky Sports 1 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=833&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="834" tvg-name="834" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/834.png",Sky Sports 2 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=834&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="818" tvg-name="818" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/818.png",Sport 1 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=818&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="835" tvg-name="835" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/835.png",Sport1+ HD
+http://api.apollogroup.tv/play/?vlc=1&channel=835&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="822" tvg-name="822" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/822.png",VIVA Comedy
+http://api.apollogroup.tv/play/?vlc=1&channel=822&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="813" tvg-name="813" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/813.png",VOX HD
+http://api.apollogroup.tv/play/?vlc=1&channel=813&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="811" tvg-name="811" tvg-type="live" group-title="Germany" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/811.png",ZDF HD
+http://api.apollogroup.tv/play/?vlc=1&channel=811&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20040" tvg-name="20040" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20040.png",Discovery Investigation
+http://api.apollogroup.tv/play/?vlc=1&channel=20040&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10010" tvg-name="10010" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10010.png",Animal Planet
+http://api.apollogroup.tv/play/?vlc=1&channel=10010&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10015" tvg-name="10015" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10015.png",Discovery Channel
+http://api.apollogroup.tv/play/?vlc=1&channel=10015&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20039" tvg-name="20039" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20039.png",Discovery Channel
+http://api.apollogroup.tv/play/?vlc=1&channel=20039&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20038" tvg-name="20038" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20038.png",Discovery Family
+http://api.apollogroup.tv/play/?vlc=1&channel=20038&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="147" tvg-name="147" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/147.png",Discovery HD
+http://api.apollogroup.tv/play/?vlc=1&channel=147&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="272" tvg-name="272" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/272.png",Discovery HD Showcase
+http://api.apollogroup.tv/play/?vlc=1&channel=272&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="556" tvg-name="556" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/556.png",Discovery History
+http://api.apollogroup.tv/play/?vlc=1&channel=556&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20035" tvg-name="20035" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20035.png",Discovery Science
+http://api.apollogroup.tv/play/?vlc=1&channel=20035&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="391" tvg-name="391" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/391.png",Discovery Science HD
+http://api.apollogroup.tv/play/?vlc=1&channel=391&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="563" tvg-name="563" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/563.png",Discovery Science UK
+http://api.apollogroup.tv/play/?vlc=1&channel=563&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="561" tvg-name="561" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/561.png",Discovery Turbo UK
+http://api.apollogroup.tv/play/?vlc=1&channel=561&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="535" tvg-name="535" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/535.png",Discovery UK
+http://api.apollogroup.tv/play/?vlc=1&channel=535&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="161" tvg-name="161" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/161.png",H2
+http://api.apollogroup.tv/play/?vlc=1&channel=161&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="188" tvg-name="188" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/188.png",History UK
+http://api.apollogroup.tv/play/?vlc=1&channel=188&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10024" tvg-name="10024" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10024.png",National Geographic
+http://api.apollogroup.tv/play/?vlc=1&channel=10024&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20036" tvg-name="20036" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20036.png",National Geographic
+http://api.apollogroup.tv/play/?vlc=1&channel=20036&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2373" tvg-name="2373" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2373.png",National Geographic HD
+http://api.apollogroup.tv/play/?vlc=1&channel=2373&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20037" tvg-name="20037" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20037.png",National Geographic Wild
+http://api.apollogroup.tv/play/?vlc=1&channel=20037&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="559" tvg-name="559" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/559.png",Travel Channel UK
+http://api.apollogroup.tv/play/?vlc=1&channel=559&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="180" tvg-name="180" tvg-type="live" group-title="Documentary" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/180.png",Travel+Adventure HD
+http://api.apollogroup.tv/play/?vlc=1&channel=180&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="502" tvg-name="502" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/502.png",MTV Base UK
+http://api.apollogroup.tv/play/?vlc=1&channel=502&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="575" tvg-name="575" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/575.png",MTV Dance UK
+http://api.apollogroup.tv/play/?vlc=1&channel=575&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="548" tvg-name="548" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/548.png",MTV Hits UK
+http://api.apollogroup.tv/play/?vlc=1&channel=548&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="144" tvg-name="144" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/144.png",MTV Live HD
+http://api.apollogroup.tv/play/?vlc=1&channel=144&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="509" tvg-name="509" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/509.png",MTV Music UK
+http://api.apollogroup.tv/play/?vlc=1&channel=509&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="510" tvg-name="510" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/510.png",MTV Rocks UK
+http://api.apollogroup.tv/play/?vlc=1&channel=510&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="508" tvg-name="508" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/508.png",MTV UK
+http://api.apollogroup.tv/play/?vlc=1&channel=508&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="562" tvg-name="562" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/562.png",MTV Xmas UK
+http://api.apollogroup.tv/play/?vlc=1&channel=562&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="278" tvg-name="278" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/278.png",VH1 Europe
+http://api.apollogroup.tv/play/?vlc=1&channel=278&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="523" tvg-name="523" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/523.png",VH1 UK
+http://api.apollogroup.tv/play/?vlc=1&channel=523&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="506" tvg-name="506" tvg-type="live" group-title="Music" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/506.png",VIVA UK
+http://api.apollogroup.tv/play/?vlc=1&channel=506&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="356" tvg-name="356" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/356.png",Bloomberg
+http://api.apollogroup.tv/play/?vlc=1&channel=356&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10011" tvg-name="10011" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10011.png",BBC America
+http://api.apollogroup.tv/play/?vlc=1&channel=10011&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1618" tvg-name="1618" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1618.png",BBC News UK
+http://api.apollogroup.tv/play/?vlc=1&channel=1618&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="105" tvg-name="105" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/105.png",BBC World News
+http://api.apollogroup.tv/play/?vlc=1&channel=105&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10013" tvg-name="10013" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10013.png",CNBC
+http://api.apollogroup.tv/play/?vlc=1&channel=10013&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2730" tvg-name="2730" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2730.png",CNBC UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2730&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20047" tvg-name="20047" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20047.png",CNN
+http://api.apollogroup.tv/play/?vlc=1&channel=20047&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="104" tvg-name="104" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/104.png",CNN
+http://api.apollogroup.tv/play/?vlc=1&channel=104&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2703" tvg-name="2703" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2703.png",CNN HD
+http://api.apollogroup.tv/play/?vlc=1&channel=2703&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20048" tvg-name="20048" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20048.png",Fox News
+http://api.apollogroup.tv/play/?vlc=1&channel=20048&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10018" tvg-name="10018" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10018.png",Fox News Channel
+http://api.apollogroup.tv/play/?vlc=1&channel=10018&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20046" tvg-name="20046" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20046.png",MSNBC
+http://api.apollogroup.tv/play/?vlc=1&channel=20046&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="580" tvg-name="580" tvg-type="live" group-title="News" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/580.png",Sky News UK
+http://api.apollogroup.tv/play/?vlc=1&channel=580&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="564" tvg-name="564" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/564.png",Alibi
+http://api.apollogroup.tv/play/?vlc=1&channel=564&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1622" tvg-name="1622" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1622.png",BBC 1 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1622&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1617" tvg-name="1617" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1617.png",BBC 2
+http://api.apollogroup.tv/play/?vlc=1&channel=1617&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1615" tvg-name="1615" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1615.png",Bloomberg
+http://api.apollogroup.tv/play/?vlc=1&channel=1615&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1681" tvg-name="1681" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1681.png",Channel 4
+http://api.apollogroup.tv/play/?vlc=1&channel=1681&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1627" tvg-name="1627" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1627.png",Channel 5
+http://api.apollogroup.tv/play/?vlc=1&channel=1627&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2790" tvg-name="2790" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2790.png",Comedy Central HD UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2790&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="512" tvg-name="512" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/512.png",Comedy Central UK
+http://api.apollogroup.tv/play/?vlc=1&channel=512&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1675" tvg-name="1675" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1675.png",E4
+http://api.apollogroup.tv/play/?vlc=1&channel=1675&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1678" tvg-name="1678" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1678.png",Film 4
+http://api.apollogroup.tv/play/?vlc=1&channel=1678&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1608" tvg-name="1608" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1608.png",ITV 1
+http://api.apollogroup.tv/play/?vlc=1&channel=1608&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1607" tvg-name="1607" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1607.png",ITV 2
+http://api.apollogroup.tv/play/?vlc=1&channel=1607&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1606" tvg-name="1606" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1606.png",ITV 3
+http://api.apollogroup.tv/play/?vlc=1&channel=1606&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1605" tvg-name="1605" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1605.png",ITV 4
+http://api.apollogroup.tv/play/?vlc=1&channel=1605&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1676" tvg-name="1676" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1676.png",More 4
+http://api.apollogroup.tv/play/?vlc=1&channel=1676&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="501" tvg-name="501" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/501.png",Movies4men
+http://api.apollogroup.tv/play/?vlc=1&channel=501&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2765" tvg-name="2765" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2765.png",Sky Action UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2765&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2766" tvg-name="2766" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2766.png",Sky Comedy UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2766&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2768" tvg-name="2768" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2768.png",Sky Drama HD UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2768&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2771" tvg-name="2771" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2771.png",Sky Horror UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2771&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2772" tvg-name="2772" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2772.png",Sky Select UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2772&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2773" tvg-name="2773" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2773.png",Sky Thriller UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2773&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2739" tvg-name="2739" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2739.png",Sony Channel UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2739&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="586" tvg-name="586" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/586.png",Sony Movie UK
+http://api.apollogroup.tv/play/?vlc=1&channel=586&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1628" tvg-name="1628" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1628.png",Spike UK
+http://api.apollogroup.tv/play/?vlc=1&channel=1628&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1635" tvg-name="1635" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1635.png",StarzTV UK
+http://api.apollogroup.tv/play/?vlc=1&channel=1635&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="546" tvg-name="546" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/546.png",TLC UK
+http://api.apollogroup.tv/play/?vlc=1&channel=546&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1638" tvg-name="1638" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1638.png",True Crime UK
+http://api.apollogroup.tv/play/?vlc=1&channel=1638&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="584" tvg-name="584" tvg-type="live" group-title="UK" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/584.png",Vintage UK
+http://api.apollogroup.tv/play/?vlc=1&channel=584&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20050" tvg-name="20050" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20050.png",Cartoon Networks
+http://api.apollogroup.tv/play/?vlc=1&channel=20050&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2791" tvg-name="2791" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2791.png",Disney UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2791&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1650" tvg-name="1650" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1650.png",Nick Jr Toons UK
+http://api.apollogroup.tv/play/?vlc=1&channel=1650&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1651" tvg-name="1651" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1651.png",Nick Jr UK
+http://api.apollogroup.tv/play/?vlc=1&channel=1651&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1653" tvg-name="1653" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1653.png",Nick Toons UK
+http://api.apollogroup.tv/play/?vlc=1&channel=1653&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10026" tvg-name="10026" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10026.png",Nickelodeon
+http://api.apollogroup.tv/play/?vlc=1&channel=10026&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20049" tvg-name="20049" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20049.png",Nickelodeon
+http://api.apollogroup.tv/play/?vlc=1&channel=20049&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1652" tvg-name="1652" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1652.png",Nickelodeon UK
+http://api.apollogroup.tv/play/?vlc=1&channel=1652&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="240" tvg-name="240" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/240.png",NickJR
+#EXTINF:-1 tvg-id="1325" tvg-name="1325" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1325.png",Abu Dhabi Sport 1 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1325&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="851" tvg-name="851" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/851.png",AFN Sports HD
+http://api.apollogroup.tv/play/?vlc=1&channel=851&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1101" tvg-name="1101" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1101.png",Bein Sport HD1
+http://api.apollogroup.tv/play/?vlc=1&channel=1101&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1111" tvg-name="1111" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1111.png",Bein Sport HD11
+http://api.apollogroup.tv/play/?vlc=1&channel=1111&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1112" tvg-name="1112" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1112.png",Bein Sport HD12
+http://api.apollogroup.tv/play/?vlc=1&channel=1112&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1102" tvg-name="1102" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1102.png",Bein Sport HD2
+http://api.apollogroup.tv/play/?vlc=1&channel=1102&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1103" tvg-name="1103" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1103.png",Bein Sport HD3
+http://api.apollogroup.tv/play/?vlc=1&channel=1103&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1104" tvg-name="1104" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1104.png",Bein Sport HD4
+http://api.apollogroup.tv/play/?vlc=1&channel=1104&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1105" tvg-name="1105" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1105.png",Bein Sport HD5
+http://api.apollogroup.tv/play/?vlc=1&channel=1105&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1106" tvg-name="1106" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1106.png",Bein Sport HD6
+http://api.apollogroup.tv/play/?vlc=1&channel=1106&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1107" tvg-name="1107" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1107.png",Bein Sport HD7
+http://api.apollogroup.tv/play/?vlc=1&channel=1107&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1108" tvg-name="1108" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1108.png",Bein Sport HD8
+http://api.apollogroup.tv/play/?vlc=1&channel=1108&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="504" tvg-name="504" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/504.png",BoxNation UK
+http://api.apollogroup.tv/play/?vlc=1&channel=504&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="922" tvg-name="922" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/922.png",BT Sport 1 UK
+http://api.apollogroup.tv/play/?vlc=1&channel=922&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="923" tvg-name="923" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/923.png",BT Sport 2 UK
+http://api.apollogroup.tv/play/?vlc=1&channel=923&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20062" tvg-name="20062" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20062.png",BTN
+http://api.apollogroup.tv/play/?vlc=1&channel=20062&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10016" tvg-name="10016" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10016.png",ESPN
+http://api.apollogroup.tv/play/?vlc=1&channel=10016&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20010" tvg-name="20010" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20010.png",ESPN
+http://api.apollogroup.tv/play/?vlc=1&channel=20010&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1135" tvg-name="1135" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1135.png",ESPN
+http://api.apollogroup.tv/play/?vlc=1&channel=1135&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20012" tvg-name="20012" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20012.png",ESPN University
+http://api.apollogroup.tv/play/?vlc=1&channel=20012&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="10017" tvg-name="10017" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/10017.png",ESPN2
+http://api.apollogroup.tv/play/?vlc=1&channel=10017&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20011" tvg-name="20011" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20011.png",ESPN2
+http://api.apollogroup.tv/play/?vlc=1&channel=20011&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="145" tvg-name="145" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/145.png",Eurosport 1 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=145&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="361" tvg-name="361" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/361.png",Eurosport 2 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=361&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="831" tvg-name="831" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/831.png",Eurosport HD DE
+http://api.apollogroup.tv/play/?vlc=1&channel=831&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20009" tvg-name="20009" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20009.png",Fox Soccer Plus
+http://api.apollogroup.tv/play/?vlc=1&channel=20009&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20007" tvg-name="20007" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20007.png",Fox Sports 1
+http://api.apollogroup.tv/play/?vlc=1&channel=20007&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1138" tvg-name="1138" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1138.png",Fox Sports 1
+http://api.apollogroup.tv/play/?vlc=1&channel=1138&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20008" tvg-name="20008" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20008.png",Fox Sports 2
+http://api.apollogroup.tv/play/?vlc=1&channel=20008&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1139" tvg-name="1139" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1139.png",Fox Sports 2
+http://api.apollogroup.tv/play/?vlc=1&channel=1139&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1339" tvg-name="1339" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1339.png",MBC Pro Sports 1 AR
+http://api.apollogroup.tv/play/?vlc=1&channel=1339&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1340" tvg-name="1340" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1340.png",MBC Pro Sports 2 AR
+http://api.apollogroup.tv/play/?vlc=1&channel=1340&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1341" tvg-name="1341" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1341.png",MBC Pro Sports 3 AR
+http://api.apollogroup.tv/play/?vlc=1&channel=1341&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1342" tvg-name="1342" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1342.png",MBC Pro Sports 4 AR
+http://api.apollogroup.tv/play/?vlc=1&channel=1342&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20017" tvg-name="20017" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20017.png",NBA TV
+http://api.apollogroup.tv/play/?vlc=1&channel=20017&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20018" tvg-name="20018" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20018.png",NBC Golf
+http://api.apollogroup.tv/play/?vlc=1&channel=20018&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20061" tvg-name="20061" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20061.png",NBC Sports Live
+http://api.apollogroup.tv/play/?vlc=1&channel=20061&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20013" tvg-name="20013" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20013.png",NBCSN
+http://api.apollogroup.tv/play/?vlc=1&channel=20013&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20063" tvg-name="20063" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20063.png",NESN
+http://api.apollogroup.tv/play/?vlc=1&channel=20063&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20015" tvg-name="20015" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20015.png",NFL Network
+http://api.apollogroup.tv/play/?vlc=1&channel=20015&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20016" tvg-name="20016" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20016.png",NFL Now
+http://api.apollogroup.tv/play/?vlc=1&channel=20016&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20064" tvg-name="20064" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20064.png",NFL Red Zone Ticket
+http://api.apollogroup.tv/play/?vlc=1&channel=20064&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="942" tvg-name="942" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/942.png",Setanta Eurasia
+http://api.apollogroup.tv/play/?vlc=1&channel=942&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="943" tvg-name="943" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/943.png",Setanta Eurasia+
+http://api.apollogroup.tv/play/?vlc=1&channel=943&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="832" tvg-name="832" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/832.png",Sky Sport News DE
+http://api.apollogroup.tv/play/?vlc=1&channel=832&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1129" tvg-name="1129" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1129.png",Sky Sports 1
+http://api.apollogroup.tv/play/?vlc=1&channel=1129&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="833" tvg-name="833" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/833.png",Sky Sports 1 HD DE
+http://api.apollogroup.tv/play/?vlc=1&channel=833&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1130" tvg-name="1130" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1130.png",Sky Sports 2
+http://api.apollogroup.tv/play/?vlc=1&channel=1130&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="834" tvg-name="834" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/834.png",Sky Sports 2 HD DE
+http://api.apollogroup.tv/play/?vlc=1&channel=834&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1131" tvg-name="1131" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1131.png",Sky Sports 3
+http://api.apollogroup.tv/play/?vlc=1&channel=1131&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1132" tvg-name="1132" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1132.png",Sky Sports 4
+http://api.apollogroup.tv/play/?vlc=1&channel=1132&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1133" tvg-name="1133" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1133.png",Sky Sports 5
+http://api.apollogroup.tv/play/?vlc=1&channel=1133&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2778" tvg-name="2778" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2778.png",Sky Sports Arena HD UK
+http://api.apollogroup.tv/play/?vlc=1&channel=2778&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1122" tvg-name="1122" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1122.png",TSN2 HD US
+http://api.apollogroup.tv/play/?vlc=1&channel=1122&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1123" tvg-name="1123" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1123.png",TSN3 HD US
+http://api.apollogroup.tv/play/?vlc=1&channel=1123&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1124" tvg-name="1124" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1124.png",TSN4 HD US
+http://api.apollogroup.tv/play/?vlc=1&channel=1124&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1125" tvg-name="1125" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1125.png",TSN5 HD US
+http://api.apollogroup.tv/play/?vlc=1&channel=1125&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="20060" tvg-name="20060" tvg-type="live" group-title="Sport" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/20060.png",UFC Fight Pass
+http://api.apollogroup.tv/play/?vlc=1&channel=20060&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+
+
+
+
+
+#EXTINF:-1 tvg-id="1324" tvg-name="1324" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1324.png",Abu Dhabi TV AR (1324)
+http://api.apollogroup.tv/play/?vlc=1&channel=1324&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1326" tvg-name="1326" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1326.png",Al Aoula Inter AR (1326)
+http://api.apollogroup.tv/play/?vlc=1&channel=1326&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1285" tvg-name="1285" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1285.png",AL EMARAT TV AR (1285)
+http://api.apollogroup.tv/play/?vlc=1&channel=1285&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1208" tvg-name="1208" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1208.png",MBC 1 SD AR (1208)
+http://api.apollogroup.tv/play/?vlc=1&channel=1208&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1207" tvg-name="1207" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1207.png",MBC 2 SD AR (1207)
+http://api.apollogroup.tv/play/?vlc=1&channel=1207&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1163" tvg-name="1163" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1163.png",MBC 3 AR (1163)
+http://api.apollogroup.tv/play/?vlc=1&channel=1163&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1217" tvg-name="1217" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1217.png",MBC 4 AR (1217)
+http://api.apollogroup.tv/play/?vlc=1&channel=1217&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1192" tvg-name="1192" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1192.png",Mbc Action AR (1192)
+http://api.apollogroup.tv/play/?vlc=1&channel=1192&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1191" tvg-name="1191" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1191.png",Mbc Bollywood AR (1191)
+http://api.apollogroup.tv/play/?vlc=1&channel=1191&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1189" tvg-name="1189" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1189.png",Mbc Drama AR (1189)
+http://api.apollogroup.tv/play/?vlc=1&channel=1189&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1188" tvg-name="1188" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1188.png",Mbc Max AR (1188)
+http://api.apollogroup.tv/play/?vlc=1&channel=1188&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1339" tvg-name="1339" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1339.png",MBC Pro Sports 1 AR (1339)
+http://api.apollogroup.tv/play/?vlc=1&channel=1339&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1340" tvg-name="1340" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1340.png",MBC Pro Sports 2 AR (1340)
+http://api.apollogroup.tv/play/?vlc=1&channel=1340&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1341" tvg-name="1341" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1341.png",MBC Pro Sports 3 AR (1341)
+http://api.apollogroup.tv/play/?vlc=1&channel=1341&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1342" tvg-name="1342" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1342.png",MBC Pro Sports 4 AR (1342)
+http://api.apollogroup.tv/play/?vlc=1&channel=1342&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1284" tvg-name="1284" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1284.png",National Geographic Abu Dhabi      AR (1284)
+http://api.apollogroup.tv/play/?vlc=1&channel=1284&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1280" tvg-name="1280" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1280.png",OSN Box Office 1
+http://api.apollogroup.tv/play/?vlc=1&channel=1280&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1281" tvg-name="1281" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1281.png",OSN Box Office 2
+http://api.apollogroup.tv/play/?vlc=1&channel=1281&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1282" tvg-name="1282" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1282.png",OSN Box Office 3
+http://api.apollogroup.tv/play/?vlc=1&channel=1282&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1317" tvg-name="1317" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1317.png",Rotana Cinema
+http://api.apollogroup.tv/play/?vlc=1&channel=1317&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1321" tvg-name="1321" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1321.png",Rotana Classic
+http://api.apollogroup.tv/play/?vlc=1&channel=1321&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1316" tvg-name="1316" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1316.png",Rotana Khalijiah
+http://api.apollogroup.tv/play/?vlc=1&channel=1316&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1319" tvg-name="1319" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1319.png",Rotana Masriya
+http://api.apollogroup.tv/play/?vlc=1&channel=1319&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+
+#EXTINF:-1 tvg-id="1557" tvg-name="1557" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1557.png",Channel 02
+http://api.apollogroup.tv/play/?vlc=1&channel=1557&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="470" tvg-name="470" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/470.png",Channel 02
+http://api.apollogroup.tv/play/?vlc=1&channel=470&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="471" tvg-name="471" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/471.png",Channel 10
+http://api.apollogroup.tv/play/?vlc=1&channel=471&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="478" tvg-name="478" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/478.png",Channel 20 Israel
+http://api.apollogroup.tv/play/?vlc=1&channel=478&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1547" tvg-name="1547" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1547.png",Channel 9 HD)
+http://api.apollogroup.tv/play/?vlc=1&channel=1547&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="476" tvg-name="476" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/476.png",Disney
+http://api.apollogroup.tv/play/?vlc=1&channel=476&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="474" tvg-name="474" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/474.png",Disney Jr
+http://api.apollogroup.tv/play/?vlc=1&channel=474&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1550" tvg-name="1550" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1550.png",Ego Total
+http://api.apollogroup.tv/play/?vlc=1&channel=1550&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1524" tvg-name="1524" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1524.png",Good Life
+http://api.apollogroup.tv/play/?vlc=1&channel=1524&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1552" tvg-name="1552" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1552.png",Health
+http://api.apollogroup.tv/play/?vlc=1&channel=1552&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1503" tvg-name="1503" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1503.png",Home Plus
+http://api.apollogroup.tv/play/?vlc=1&channel=1503&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1502" tvg-name="1502" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1502.png",hop
+http://api.apollogroup.tv/play/?vlc=1&channel=1502&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1559" tvg-name="1559" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1559.png",Hop Yaldut
+http://api.apollogroup.tv/play/?vlc=1&channel=1559&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="477" tvg-name="477" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/477.png",Hop Yaldut
+http://api.apollogroup.tv/play/?vlc=1&channel=477&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1544" tvg-name="1544" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1544.png",HOT ACTION HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1544&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1560" tvg-name="1560" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1560.png",HOT Bombay
+http://api.apollogroup.tv/play/?vlc=1&channel=1560&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1541" tvg-name="1541" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1541.png",HOT Channel 8
+http://api.apollogroup.tv/play/?vlc=1&channel=1541&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1526" tvg-name="1526" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1526.png",HOT DRAMA HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1526&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1553" tvg-name="1553" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1553.png",HOT Entertainment
+http://api.apollogroup.tv/play/?vlc=1&channel=1553&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1525" tvg-name="1525" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1525.png",HOT FUN HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1525&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1545" tvg-name="1545" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1545.png",HOT GOLD HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1545&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1523" tvg-name="1523" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1523.png",HOT HBO HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1523&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1561" tvg-name="1561" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1561.png",HOT Prime
+http://api.apollogroup.tv/play/?vlc=1&channel=1561&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1529" tvg-name="1529" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1529.png",HOT ZONE HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1529&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1537" tvg-name="1537" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1537.png",HOT3 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1537&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1520" tvg-name="1520" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1520.png",ILand
+http://api.apollogroup.tv/play/?vlc=1&channel=1520&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1536" tvg-name="1536" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1536.png",Junior
+http://api.apollogroup.tv/play/?vlc=1&channel=1536&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="473" tvg-name="473" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/473.png",Kan 11
+http://api.apollogroup.tv/play/?vlc=1&channel=473&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1558" tvg-name="1558" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1558.png",Kids Channel
+http://api.apollogroup.tv/play/?vlc=1&channel=1558&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1535" tvg-name="1535" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1535.png",Logi
+http://api.apollogroup.tv/play/?vlc=1&channel=1535&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1534" tvg-name="1534" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1534.png",Luli
+http://api.apollogroup.tv/play/?vlc=1&channel=1534&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1505" tvg-name="1505" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1505.png",Music 24
+http://api.apollogroup.tv/play/?vlc=1&channel=1505&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1501" tvg-name="1501" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1501.png",Nick Jr
+http://api.apollogroup.tv/play/?vlc=1&channel=1501&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1532" tvg-name="1532" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1532.png",Nickelodeon
+http://api.apollogroup.tv/play/?vlc=1&channel=1532&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1507" tvg-name="1507" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1507.png",Sport 5 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1507&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1531" tvg-name="1531" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1531.png",Sport 5+ Live HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1531&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1522" tvg-name="1522" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1522.png",Sport HD1
+http://api.apollogroup.tv/play/?vlc=1&channel=1522&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1521" tvg-name="1521" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1521.png",Sport HD2
+http://api.apollogroup.tv/play/?vlc=1&channel=1521&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1506" tvg-name="1506" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1506.png",Sport ONE HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1506&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1530" tvg-name="1530" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1530.png",Travel Channel
+http://api.apollogroup.tv/play/?vlc=1&channel=1530&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1563" tvg-name="1563" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1563.png",VIVA
+http://api.apollogroup.tv/play/?vlc=1&channel=1563&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1556" tvg-name="1556" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1556.png",Viva+
+http://api.apollogroup.tv/play/?vlc=1&channel=1556&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1518" tvg-name="1518" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1518.png",YES 1 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1518&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1517" tvg-name="1517" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1517.png",YES 2 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1517&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1516" tvg-name="1516" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1516.png",YES 3 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1516&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1515" tvg-name="1515" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1515.png",YES 4 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1515&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1514" tvg-name="1514" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1514.png",YES 5 HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1514&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1513" tvg-name="1513" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1513.png",YES ACTION HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1513&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1512" tvg-name="1512" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1512.png",YES COMEDY HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1512&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1511" tvg-name="1511" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1511.png",Yes DOCU HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1511&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1510" tvg-name="1510" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1510.png",Yes DRAMA HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1510&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1509" tvg-name="1509" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1509.png",YES Israeli Cinema
+http://api.apollogroup.tv/play/?vlc=1&channel=1509&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1508" tvg-name="1508" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1508.png",YES OH HD
+http://api.apollogroup.tv/play/?vlc=1&channel=1508&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1564" tvg-name="1564" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1564.png",Yes WIZ Kidz
+http://api.apollogroup.tv/play/?vlc=1&channel=1564&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1528" tvg-name="1528" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1528.png",ZOOM
+http://api.apollogroup.tv/play/?vlc=1&channel=1528&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+
+
+
+
+http://api.apollogroup.tv/play/?vlc=1&channel=240&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1878" tvg-name="1878" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1878.png",Boomerang SK (1878)
+http://api.apollogroup.tv/play/?vlc=1&channel=1878&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1879" tvg-name="1879" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1879.png",C More First HD SK (1879)
+http://api.apollogroup.tv/play/?vlc=1&channel=1879&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1882" tvg-name="1882" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1882.png",C More Hits HD SE (1882)
+http://api.apollogroup.tv/play/?vlc=1&channel=1882&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1881" tvg-name="1881" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1881.png",C More Series HD SK (1881)
+http://api.apollogroup.tv/play/?vlc=1&channel=1881&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1880" tvg-name="1880" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1880.png",C More Sport HD SE (1880)
+http://api.apollogroup.tv/play/?vlc=1&channel=1880&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1857" tvg-name="1857" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1857.png",Canal 9 SK (1857)
+http://api.apollogroup.tv/play/?vlc=1&channel=1857&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1868" tvg-name="1868" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1868.png",Cartoon Network SK (1868)
+http://api.apollogroup.tv/play/?vlc=1&channel=1868&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1810" tvg-name="1810" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1810.png",Disney Jr SK (1810)
+http://api.apollogroup.tv/play/?vlc=1&channel=1810&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1839" tvg-name="1839" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1839.png",DR2 DK (1839)
+http://api.apollogroup.tv/play/?vlc=1&channel=1839&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1829" tvg-name="1829" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1829.png",DRK DK (1829)
+http://api.apollogroup.tv/play/?vlc=1&channel=1829&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1869" tvg-name="1869" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1869.png",Kanal 11 SK (1869)
+http://api.apollogroup.tv/play/?vlc=1&channel=1869&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1801" tvg-name="1801" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1801.png",Kanal 4 SK (1801)
+http://api.apollogroup.tv/play/?vlc=1&channel=1801&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1800" tvg-name="1800" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1800.png",Kanal 5 SK (1800)
+http://api.apollogroup.tv/play/?vlc=1&channel=1800&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1870" tvg-name="1870" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1870.png",Kanal 9 SK (1870)
+http://api.apollogroup.tv/play/?vlc=1&channel=1870&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1844" tvg-name="1844" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1844.png",Kanal5 DK (1844)
+http://api.apollogroup.tv/play/?vlc=1&channel=1844&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1840" tvg-name="1840" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1840.png",MTV DK (1840)
+http://api.apollogroup.tv/play/?vlc=1&channel=1840&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2652" tvg-name="2652" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2652.png",MTV Sport 1 HD FI (2652)
+http://api.apollogroup.tv/play/?vlc=1&channel=2652&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2653" tvg-name="2653" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2653.png",MTV Sport 2 FI (2653)
+http://api.apollogroup.tv/play/?vlc=1&channel=2653&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1856" tvg-name="1856" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1856.png",Nat Geo Wild SK (1856)
+http://api.apollogroup.tv/play/?vlc=1&channel=1856&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1876" tvg-name="1876" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1876.png",National Geo SK (1876)
+http://api.apollogroup.tv/play/?vlc=1&channel=1876&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1808" tvg-name="1808" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1808.png",NRK1 SK (1808)
+http://api.apollogroup.tv/play/?vlc=1&channel=1808&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1809" tvg-name="1809" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1809.png",NRK2 SK (1809)
+http://api.apollogroup.tv/play/?vlc=1&channel=1809&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1863" tvg-name="1863" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1863.png",SVT1 SK (1863)
+http://api.apollogroup.tv/play/?vlc=1&channel=1863&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1864" tvg-name="1864" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1864.png",SVT2 SK (1864)
+http://api.apollogroup.tv/play/?vlc=1&channel=1864&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1874" tvg-name="1874" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1874.png",TV Norge SK (1874)
+http://api.apollogroup.tv/play/?vlc=1&channel=1874&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1811" tvg-name="1811" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1811.png",TV10 SK (1811)
+http://api.apollogroup.tv/play/?vlc=1&channel=1811&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1803" tvg-name="1803" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1803.png",TV12 SK (1803)
+http://api.apollogroup.tv/play/?vlc=1&channel=1803&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1835" tvg-name="1835" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1835.png",TV2 Sport SK (1835)
+http://api.apollogroup.tv/play/?vlc=1&channel=1835&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1836" tvg-name="1836" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1836.png",TV2 Zulu SK (1836)
+http://api.apollogroup.tv/play/?vlc=1&channel=1836&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1812" tvg-name="1812" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1812.png",TV3 DK (1812)
+http://api.apollogroup.tv/play/?vlc=1&channel=1812&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1813" tvg-name="1813" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1813.png",TV3 Norge SK (1813)
+http://api.apollogroup.tv/play/?vlc=1&channel=1813&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1820" tvg-name="1820" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1820.png",TV3 Puls DK (1820)
+http://api.apollogroup.tv/play/?vlc=1&channel=1820&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1852" tvg-name="1852" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1852.png",TV3 Sport1 SK (1852)
+http://api.apollogroup.tv/play/?vlc=1&channel=1852&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1853" tvg-name="1853" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1853.png",TV3 Sport2 SK (1853)
+http://api.apollogroup.tv/play/?vlc=1&channel=1853&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1814" tvg-name="1814" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1814.png",TV3 Sverige SK (1814)
+http://api.apollogroup.tv/play/?vlc=1&channel=1814&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1804" tvg-name="1804" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1804.png",TV4 Fakta XL SK (1804)
+http://api.apollogroup.tv/play/?vlc=1&channel=1804&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1866" tvg-name="1866" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1866.png",TV4 Film SK (1866)
+http://api.apollogroup.tv/play/?vlc=1&channel=1866&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1854" tvg-name="1854" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1854.png",TV4 Guld SK (1854)
+http://api.apollogroup.tv/play/?vlc=1&channel=1854&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1815" tvg-name="1815" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1815.png",TV6 SK (1815)
+http://api.apollogroup.tv/play/?vlc=1&channel=1815&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1842" tvg-name="1842" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1842.png",TV8 SK (1842)
+http://api.apollogroup.tv/play/?vlc=1&channel=1842&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1827" tvg-name="1827" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1827.png",Viasat Fotboll SK (1827)
+http://api.apollogroup.tv/play/?vlc=1&channel=1827&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1871" tvg-name="1871" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1871.png",Viasat History SK (1871)
+http://api.apollogroup.tv/play/?vlc=1&channel=1871&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1826" tvg-name="1826" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1826.png",Viasat Motor SK (1826)
+http://api.apollogroup.tv/play/?vlc=1&channel=1826&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2654" tvg-name="2654" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2654.png",Yle TV2 HD FI (2654)
+http://api.apollogroup.tv/play/?vlc=1&channel=2654&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+
+
+
+
+#EXTINF:-1 tvg-id="395" tvg-name="395" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/395.png",Bollywood (395)
+http://api.apollogroup.tv/play/?vlc=1&channel=395&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="223" tvg-name="223" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/223.png",Cinema (223)
+http://api.apollogroup.tv/play/?vlc=1&channel=223&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="361" tvg-name="361" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/361.png",Eurosport 2 HD (361)
+http://api.apollogroup.tv/play/?vlc=1&channel=361&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="181" tvg-name="181" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/181.png",Paramount Comedy (181)
+http://api.apollogroup.tv/play/?vlc=1&channel=181&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="6" tvg-name="6" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/6.png",THT (6)
+http://api.apollogroup.tv/play/?vlc=1&channel=6&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="82" tvg-name="82" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/82.png",TV1000 (82)
+http://api.apollogroup.tv/play/?vlc=1&channel=82&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="83" tvg-name="83" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/83.png",TV1000 Action (83)
+http://api.apollogroup.tv/play/?vlc=1&channel=83&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="194" tvg-name="194" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/194.png",TV1000 Comedy HD (194)
+http://api.apollogroup.tv/play/?vlc=1&channel=194&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="195" tvg-name="195" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/195.png",TV1000 Megahit HD (195)
+http://api.apollogroup.tv/play/?vlc=1&channel=195&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="196" tvg-name="196" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/196.png",TV1000 Premium HD (196)
+http://api.apollogroup.tv/play/?vlc=1&channel=196&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="81" tvg-name="81" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/81.png",TV1000 русское кино (81)
+http://api.apollogroup.tv/play/?vlc=1&channel=81&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="42" tvg-name="42" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/42.png",Дом кино (42)
+http://api.apollogroup.tv/play/?vlc=1&channel=42&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="96" tvg-name="96" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/96.png",Еврокино (96)
+http://api.apollogroup.tv/play/?vlc=1&channel=96&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="62" tvg-name="62" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/62.png",Индия ТВ (62)
+http://api.apollogroup.tv/play/?vlc=1&channel=62&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="169" tvg-name="169" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/169.png",канал (169)
+http://api.apollogroup.tv/play/?vlc=1&channel=169&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="167" tvg-name="167" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/167.png",Кино плюс (167)
+http://api.apollogroup.tv/play/?vlc=1&channel=167&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="26" tvg-name="26" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/26.png",Кинокомедия (26)
+http://api.apollogroup.tv/play/?vlc=1&channel=26&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="137" tvg-name="137" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/137.png",Кинопоказ HD1 (137)
+http://api.apollogroup.tv/play/?vlc=1&channel=137&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="138" tvg-name="138" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/138.png",Кинопоказ HD2 (138)
+http://api.apollogroup.tv/play/?vlc=1&channel=138&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="183" tvg-name="183" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/183.png",Кинопремьера HD (183)
+http://api.apollogroup.tv/play/?vlc=1&channel=183&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="11" tvg-name="11" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/11.png",Киносвидание (11)
+http://api.apollogroup.tv/play/?vlc=1&channel=11&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="13" tvg-name="13" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/13.png",Киносемья (13)
+http://api.apollogroup.tv/play/?vlc=1&channel=13&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="33" tvg-name="33" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/33.png",Кинохит (33)
+http://api.apollogroup.tv/play/?vlc=1&channel=33&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="30" tvg-name="30" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/30.png",Матч Боец (30)
+http://api.apollogroup.tv/play/?vlc=1&channel=30&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="54" tvg-name="54" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/54.png",Матч Футбол 1 (54)
+http://api.apollogroup.tv/play/?vlc=1&channel=54&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="205" tvg-name="205" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/205.png",Матч Футбол 2 (205)
+http://api.apollogroup.tv/play/?vlc=1&channel=205&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="258" tvg-name="258" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/258.png",Матч Футбол 3 (258)
+http://api.apollogroup.tv/play/?vlc=1&channel=258&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="148" tvg-name="148" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/148.png",Мужское кино HD (148)
+http://api.apollogroup.tv/play/?vlc=1&channel=148&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="229" tvg-name="229" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/229.png",Мужской (229)
+http://api.apollogroup.tv/play/?vlc=1&channel=229&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="35" tvg-name="35" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/35.png",Наше новое кино (35)
+http://api.apollogroup.tv/play/?vlc=1&channel=35&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="4" tvg-name="4" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/4.png",НТВ (4)
+http://api.apollogroup.tv/play/?vlc=1&channel=4&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="88" tvg-name="88" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/88.png",Охота и рыбалка (88)
+http://api.apollogroup.tv/play/?vlc=1&channel=88&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="1" tvg-name="1" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1.png",Первый канал (1)
+http://api.apollogroup.tv/play/?vlc=1&channel=1&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="12" tvg-name="12" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/12.png",Родное кино (12)
+http://api.apollogroup.tv/play/?vlc=1&channel=12&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="2" tvg-name="2" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/2.png",Россия 1 (2)
+http://api.apollogroup.tv/play/?vlc=1&channel=2&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="49" tvg-name="49" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/49.png",Россия 24 (49)
+http://api.apollogroup.tv/play/?vlc=1&channel=49&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="201" tvg-name="201" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/201.png",Русский иллюзион (201)
+http://api.apollogroup.tv/play/?vlc=1&channel=201&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="172" tvg-name="172" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/172.png",Русский роман (172)
+http://api.apollogroup.tv/play/?vlc=1&channel=172&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="224" tvg-name="224" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/224.png",Совершенно секретно (224)
+http://api.apollogroup.tv/play/?vlc=1&channel=224&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+#EXTINF:-1 tvg-id="66" tvg-name="66" tvg-type="live" group-title="International" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/66.png",ТВ3 (66)
+http://api.apollogroup.tv/play/?vlc=1&channel=66&token=m-4i-pH52j1D:N2Q0ZDRhNWRkMjI3NmQ1NzMzODE0YjBhNjkzOTQ4ZWYyMjIzNDNmMQ==
+
+
+
